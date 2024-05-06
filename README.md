@@ -1,7 +1,7 @@
-# KidsPro-Project
+1. KidsPro-Project Description
 Build a website to teach children programming thinking
-# Link Website: https://kid-pro.vercel.app/login
-Account login to the website:
+2. Link Website: https://kid-pro.vercel.app/login
+3. Account login to the website
 Staff Account
 staff@gmail.com
 staff0000
