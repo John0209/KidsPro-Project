@@ -1,5 +1,4 @@
-1. KidsPro-Project Description
-Build a website to teach children programming thinking
+1. KidsPro project build a website to teach children programming thinking
 2. Link Website: https://kid-pro.vercel.app/login
 3. Link GameWebGL: https://kidspro-capstone.github.io/Capstone-Game-WebGL/
 4. Account login to the website
