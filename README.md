@@ -3,8 +3,8 @@ Build a website to teach children programming thinking
 2. Link Website: https://kid-pro.vercel.app/login
 3. Account login to the website
 - Staff Account
-staff@gmail.com
-staff0000
+. staff@gmail.com
+. staff0000
 - Admin Account
 admin@gmail.com
 0000
