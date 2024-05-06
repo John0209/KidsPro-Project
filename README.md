@@ -1,7 +1,8 @@
 1. KidsPro-Project Description
 Build a website to teach children programming thinking
 2. Link Website: https://kid-pro.vercel.app/login
-3. Account login to the website
+3. Link GameWebGL: https://kidspro-capstone.github.io/Capstone-Game-WebGL/
+4. Account login to the website
 - Staff Account: staff@gmail.com staff0000
 - Admin Account: admin@gmail.com 0000
 - Teacher account: longka@gmail.com longka123, tuanvu@gmail.com tuanvu123
