@@ -1,8 +1,16 @@
-# KidsPro 
+# KidsPro Description
 1. KidsPro project build a website to teach children programming thinking
-2. Link Website: https://kid-pro.vercel.app/login
-3. Link GameWebGL: https://kidspro-capstone.github.io/Capstone-Game-WebGL/
-4. Account login to the website
+2. The project include 5 roles
+ <p> <h4>Parent role:</h4> Parent functions include view courses, view classes, payment, view orders, edit account and follow children progress</p>
+ <p><h4>Student role: </h4>Student functions include study purchased courses, study lessons such as videos, documents, take quizzes and play practice game</p>
+<p><h4>Teacher role:</h4> Teacher functions include create course content, view schedules, view classes and edit profile</p>
+<p><h4>Staff role: </h4>Staff functions include moderate courses, handle orders, create classes and create student account</p>
+<p><h4>Admin role: </h4>Admin manages courses, orders, classes, users, certificates, syllabuses, game and dashboard </p> 
+3. Link Website: https://kid-pro.vercel.app/login
+
+4. Link GameWebGL: https://kidspro-capstone.github.io/Capstone-Game-WebGL/
+
+5. Account login to the website
 - Staff Account: staff@gmail.com staff0000
 - Admin Account: admin@gmail.com 0000
 - Teacher account: longka@gmail.com longka123, tuanvu@gmail.com tuanvu123
